@@ -1,0 +1,158 @@
+dx,CH,score,delivery,chorioamnionitis
+PE,no chronic hypertension,1.2113001372654038,caesarean,no
+non-PE,chronic hypertension,-0.31295665789731947,caesarean,no
+non-PE,chronic hypertension,-0.3823988757004635,caesarean,no
+PE,no chronic hypertension,1.044548857271434,vaginal,no
+PE,chronic hypertension,1.0407822412275403,caesarean,no
+non-PE,no chronic hypertension,-1.0872362363073693,vaginal,no
+PE,chronic hypertension,1.9788624215689006,caesarean,no
+PE,no chronic hypertension,0.5190951032222557,caesarean,no
+PE,no chronic hypertension,0.9428298030488584,vaginal,no
+PE,no chronic hypertension,0.7809828878488623,caesarean,no
+PE,no chronic hypertension,-0.338201947080949,vaginal,no
+non-PE,no chronic hypertension,-1.0810365331643768,caesarean,no
+PE,no chronic hypertension,0.16373815492197052,caesarean,no
+PE,no chronic hypertension,1.1152622046391798,caesarean,no
+PE,no chronic hypertension,1.2935236420412564,caesarean,no
+non-PE,no chronic hypertension,-1.604241817351796,caesarean,no
+PE,no chronic hypertension,1.1841265565993062,caesarean,no
+PE,no chronic hypertension,-0.590404956706577,caesarean,no
+PE,no chronic hypertension,-0.9178790653085964,vaginal,no
+non-PE,no chronic hypertension,-1.8262196245135978,vaginal,yes
+PE,no chronic hypertension,0.4759318891086032,caesarean,no
+non-PE,no chronic hypertension,-1.408259303909541,caesarean,yes
+PE,no chronic hypertension,0.44107524500687967,caesarean,no
+PE,no chronic hypertension,0.596093410581243,caesarean,no
+non-PE,no chronic hypertension,-1.5786687039695533,caesarean,no
+non-PE,no chronic hypertension,-1.8459250038546275,caesarean,yes
+PE,no chronic hypertension,1.2738848701652175,vaginal,no
+non-PE,no chronic hypertension,-1.566270732517097,caesarean,no
+PE,no chronic hypertension,0.5931579673321392,caesarean,no
+PE,no chronic hypertension,2.410722731560802,caesarean,no
+non-PE,no chronic hypertension,-1.52896054983806,caesarean,no
+non-PE,chronic hypertension,-0.42710207924445015,caesarean,no
+non-PE,no chronic hypertension,-1.5455563998247548,caesarean,no
+PE,no chronic hypertension,0.8486365186699154,caesarean,no
+PE,no chronic hypertension,-0.22854503166304246,caesarean,no
+non-PE,chronic hypertension,-1.4553421081627895,vaginal,yes
+PE,no chronic hypertension,-0.9014337916258581,caesarean,no
+non-PE,no chronic hypertension,-1.323531314793352,vaginal,yes
+PE,chronic hypertension,0.032231619081602464,caesarean,no
+non-PE,no chronic hypertension,-1.6692508060258908,caesarean,no
+non-PE,no chronic hypertension,-0.274575879292033,caesarean,no
+non-PE,no chronic hypertension,-1.1407152477735691,caesarean,no
+PE,no chronic hypertension,-0.05414558874479578,vaginal,no
+PE,no chronic hypertension,1.770375363607838,caesarean,no
+non-PE,no chronic hypertension,-1.6104042544966086,vaginal,no
+PE,no chronic hypertension,0.7544823546832021,caesarean,no
+non-PE,no chronic hypertension,-1.792147022893867,caesarean,yes
+non-PE,no chronic hypertension,-1.1815472806416432,caesarean,yes
+PE,no chronic hypertension,0.03451809247764011,caesarean,no
+PE,no chronic hypertension,1.5334353136579906,caesarean,no
+PE,no chronic hypertension,1.1561688083278905,caesarean,no
+non-PE,chronic hypertension,0.4588060036883863,caesarean,no
+non-PE,no chronic hypertension,-1.760401508297205,caesarean,yes
+non-PE,no chronic hypertension,-0.7612215781508125,caesarean,no
+PE,no chronic hypertension,0.6405629432135371,caesarean,no
+PE,no chronic hypertension,0.0008685864215853822,vaginal,no
+non-PE,no chronic hypertension,-0.5864892708072462,vaginal,no
+PE,chronic hypertension,1.1869098032271443,caesarean,no
+PE,no chronic hypertension,0.6857594683351492,caesarean,no
+non-PE,no chronic hypertension,-1.4305317712843388,caesarean,no
+PE,no chronic hypertension,1.6996094381212534,caesarean,no
+PE,no chronic hypertension,1.7540238618480144,caesarean,no
+non-PE,no chronic hypertension,-0.7091431571038472,vaginal,no
+non-PE,no chronic hypertension,-0.9896549462704172,caesarean,no
+PE,chronic hypertension,-0.39702315989782705,caesarean,no
+non-PE,chronic hypertension,-0.19615800642444636,vaginal,no
+PE,no chronic hypertension,0.700592997182803,caesarean,no
+non-PE,chronic hypertension,-0.06671482483342264,vaginal,no
+PE,no chronic hypertension,0.07250016994123226,caesarean,no
+non-PE,no chronic hypertension,-1.24550298333482,vaginal,no
+PE,no chronic hypertension,0.38091688247554406,caesarean,no
+non-PE,no chronic hypertension,-0.41892204159196894,caesarean,no
+PE,no chronic hypertension,-0.17012694078950968,vaginal,no
+PE,no chronic hypertension,0.674112591074462,caesarean,no
+non-PE,chronic hypertension,0.11007805578045571,caesarean,no
+PE,no chronic hypertension,0.9615486342247904,vaginal,no
+non-PE,chronic hypertension,0.21959129080506173,caesarean,no
+PE,chronic hypertension,0.8824978967244218,vaginal,no
+non-PE,no chronic hypertension,-0.6405094832124074,vaginal,no
+PE,chronic hypertension,0.6548930154769365,vaginal,no
+PE,chronic hypertension,0.7169865915124158,caesarean,no
+PE,no chronic hypertension,0.82578097168285,caesarean,no
+PE,no chronic hypertension,1.3235265712099489,caesarean,no
+non-PE,chronic hypertension,-0.040824581714573094,caesarean,no
+non-PE,no chronic hypertension,0.10856826868110389,caesarean,no
+PE,chronic hypertension,1.3243017063735663,caesarean,no
+non-PE,chronic hypertension,-0.7220314586427196,caesarean,no
+non-PE,chronic hypertension,-0.1373657241280532,caesarean,no
+non-PE,chronic hypertension,-0.7495526174830327,vaginal,no
+non-PE,no chronic hypertension,-1.8682021807721405,vaginal,yes
+PE,no chronic hypertension,0.009483467506347598,caesarean,no
+PE,chronic hypertension,0.7072871369780525,caesarean,no
+PE,no chronic hypertension,0.6063395902275154,caesarean,no
+non-PE,no chronic hypertension,-1.9261159006967437,vaginal,yes
+non-PE,chronic hypertension,0.4439424098868139,caesarean,no
+non-PE,no chronic hypertension,-0.4609448448092795,vaginal,yes
+non-PE,no chronic hypertension,-1.8441082150369785,caesarean,yes
+PE,chronic hypertension,0.36940102157252663,caesarean,no
+PE,no chronic hypertension,0.53912378964602,caesarean,no
+non-PE,chronic hypertension,0.7700435388595542,caesarean,no
+PE,chronic hypertension,1.1356541590100984,caesarean,no
+PE,no chronic hypertension,1.344553725918641,caesarean,no
+non-PE,chronic hypertension,1.2790984532067105,caesarean,no
+non-PE,chronic hypertension,1.6863214829088076,caesarean,no
+PE,no chronic hypertension,1.4656976745479184,caesarean,no
+non-PE,chronic hypertension,-0.05054570116237489,caesarean,no
+non-PE,chronic hypertension,0.21626938622242314,caesarean,no
+PE,chronic hypertension,1.2524957724048813,caesarean,no
+non-PE,chronic hypertension,0.295297331693376,caesarean,no
+non-PE,no chronic hypertension,-2.4182411421623664,vaginal,yes
+PE,no chronic hypertension,1.0799546512782283,caesarean,no
+PE,no chronic hypertension,1.698973861052731,caesarean,no
+PE,no chronic hypertension,1.957452089240462,caesarean,no
+non-PE,no chronic hypertension,-0.8798806454681212,vaginal,yes
+PE,chronic hypertension,-1.1693157577774684,caesarean,no
+non-PE,no chronic hypertension,-2.178472415653976,caesarean,no
+non-PE,no chronic hypertension,-1.841205212682373,caesarean,no
+non-PE,no chronic hypertension,-1.665076829831158,vaginal,yes
+PE,no chronic hypertension,-0.09623066433091701,vaginal,no
+PE,no chronic hypertension,0.7846129369206659,caesarean,no
+PE,no chronic hypertension,1.572300899066005,caesarean,no
+non-PE,no chronic hypertension,-0.698085600966841,caesarean,no
+PE,chronic hypertension,-0.5776166446590421,vaginal,no
+non-PE,no chronic hypertension,-1.1337782247903703,vaginal,no
+PE,no chronic hypertension,1.7200451704921709,caesarean,no
+PE,no chronic hypertension,0.7927126047722474,caesarean,no
+non-PE,no chronic hypertension,-0.6105109695633093,caesarean,no
+PE,no chronic hypertension,0.6493082338542637,caesarean,no
+PE,no chronic hypertension,0.7315532340290923,caesarean,no
+non-PE,no chronic hypertension,-1.1106982542913677,vaginal,no
+non-PE,no chronic hypertension,-0.4803595442835673,vaginal,no
+non-PE,no chronic hypertension,-1.5424747452491905,caesarean,no
+non-PE,chronic hypertension,-0.3908398223353485,caesarean,no
+PE,no chronic hypertension,1.2420666225672456,caesarean,no
+PE,chronic hypertension,0.9890806707833661,caesarean,no
+non-PE,no chronic hypertension,-0.6602229600193674,caesarean,no
+non-PE,chronic hypertension,0.5131824420657148,caesarean,no
+non-PE,no chronic hypertension,-0.9898047235838343,vaginal,no
+non-PE,chronic hypertension,1.5946558266485362,caesarean,no
+PE,no chronic hypertension,0.5872068429514221,vaginal,no
+PE,no chronic hypertension,0.3017665858205491,caesarean,no
+PE,chronic hypertension,0.5189234675367107,caesarean,no
+non-PE,no chronic hypertension,-0.050891893572891145,vaginal,no
+PE,no chronic hypertension,0.554427023554624,caesarean,no
+non-PE,no chronic hypertension,-1.0195347746705832,vaginal,no
+non-PE,no chronic hypertension,0.3114719878952584,caesarean,no
+non-PE,no chronic hypertension,-0.6674250087896587,vaginal,no
+non-PE,no chronic hypertension,0.3904416492934648,vaginal,no
+non-PE,no chronic hypertension,-1.0656449642553252,caesarean,no
+PE,no chronic hypertension,0.6183092166339876,vaginal,no
+non-PE,chronic hypertension,1.399201115013057,caesarean,no
+non-PE,no chronic hypertension,-1.403974948922072,caesarean,no
+PE,no chronic hypertension,0.5176021041887112,caesarean,no
+non-PE,no chronic hypertension,-0.7830555899170706,caesarean,no
+non-PE,no chronic hypertension,-1.3664486990999387,vaginal,no
+PE,no chronic hypertension,-0.6946250502258953,vaginal,yes
+PE,no chronic hypertension,1.1150026786839873,caesarean,no
